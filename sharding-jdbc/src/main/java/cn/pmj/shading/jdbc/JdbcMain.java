@@ -100,10 +100,10 @@ public class JdbcMain {
     private static Map<String, DataSource> createDataSource() {
         HashMap<String,DataSource> dataSourceMap = new HashMap<>();
         // 配置第一个数据源
-        DataSource source0 = getBasicDataSource("jdbc:mysql://154.8.141.30:3306/ds0");
+        DataSource source0 = getBasicDataSource("");
         dataSourceMap.put("ds0", source0);
         // 配置第二个数据源
-        DataSource source1 = getBasicDataSource("jdbc:mysql://154.8.141.30:3306/ds1");
+        DataSource source1 = getBasicDataSource("");
         dataSourceMap.put("ds1", source1);
         return dataSourceMap;
     }
