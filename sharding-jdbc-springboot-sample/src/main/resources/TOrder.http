@@ -1,0 +1,21 @@
+GET http://localhost:8080/selelctAll
+
+###
+POST http://localhost:8080/insert
+Content-Type: application/json
+
+{
+  "userId": 2,
+  "orderId": 7
+}
+
+###
+GET http://localhost:8080/findById?id=1566835551180
+
+###
+GET http://localhost:8080/deleteById?id=1566835551180
+
+###
+GET http://localhost:8080/updateById?id=1566836014145
+
+###

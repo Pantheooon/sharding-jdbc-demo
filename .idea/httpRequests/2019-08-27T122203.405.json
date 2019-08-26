@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-08-26T16:22:03.342+0000",
+  "status": 405,
+  "error": "Method Not Allowed",
+  "message": "Request method 'POST' not supported",
+  "path": "/updateById"
+}

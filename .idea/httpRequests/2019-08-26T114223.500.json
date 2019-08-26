@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-08-26T15:42:23.867+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "nested exception is org.apache.ibatis.exceptions.PersistenceException: \r\n### Error updating database.  Cause: io.shardingsphere.core.exception.ShardingException: Parameter `null` should extends Comparable for sharding value.\r\n### The error may involve cn.pmj.sharding.jdbc.springboot.sample.mapper.TOrderMapper.insert-Inline\r\n### The error occurred while setting parameters\r\n### SQL: INSERT INTO t_order  ( id,user_id,order_id ) VALUES( ?,?,? )\r\n### Cause: io.shardingsphere.core.exception.ShardingException: Parameter `null` should extends Comparable for sharding value.",
+  "path": "/insert"
+}

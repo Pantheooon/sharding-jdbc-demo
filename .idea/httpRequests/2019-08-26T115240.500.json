@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-08-26T15:52:40.343+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "nested exception is org.apache.ibatis.exceptions.PersistenceException: \r\n### Error updating database.  Cause: groovy.lang.MissingMethodException: No signature of method: java.lang.String.mod() is applicable for argument types: (java.lang.Integer) values: [2]\nPossible solutions: drop(int), any(), find(), find(groovy.lang.Closure), is(java.lang.Object), any(groovy.lang.Closure)\r\n### The error may involve cn.pmj.sharding.jdbc.springboot.sample.mapper.TOrderMapper.insertSelective-Inline\r\n### The error occurred while setting parameters\r\n### SQL: INSERT INTO t_order  ( user_id,order_id ) VALUES( ?,? )\r\n### Cause: groovy.lang.MissingMethodException: No signature of method: java.lang.String.mod() is applicable for argument types: (java.lang.Integer) values: [2]\nPossible solutions: drop(int), any(), find(), find(groovy.lang.Closure), is(java.lang.Object), any(groovy.lang.Closure)",
+  "path": "/insert"
+}

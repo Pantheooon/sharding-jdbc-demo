@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-08-26T15:52:20.919+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "nested exception is org.apache.ibatis.exceptions.PersistenceException: \r\n### Error updating database.  Cause: java.lang.StringIndexOutOfBoundsException: String index out of range: -1\r\n### The error may involve cn.pmj.sharding.jdbc.springboot.sample.mapper.TOrderMapper.insertSelective-Inline\r\n### The error occurred while setting parameters\r\n### SQL: INSERT INTO t_order\r\n### Cause: java.lang.StringIndexOutOfBoundsException: String index out of range: -1",
+  "path": "/insert"
+}

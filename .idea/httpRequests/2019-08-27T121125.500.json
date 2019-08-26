@@ -1,0 +1,7 @@
+{
+  "timestamp": "2019-08-26T16:11:25.486+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "Invalid bound statement (not found): cn.pmj.sharding.jdbc.springboot.sample.mapper.TOrderMapper.insertSelective",
+  "path": "/insert"
+}
