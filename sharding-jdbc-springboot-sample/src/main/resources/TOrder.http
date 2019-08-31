@@ -5,8 +5,8 @@ POST http://localhost:8080/insert
 Content-Type: application/json
 
 {
-  "userId": 2,
-  "orderId": 7
+  "userId": 4,
+  "orderId": 5
 }
 
 ###
