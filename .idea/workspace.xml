@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="927fce45-c199-40e4-8baf-db8256a04cb0" name="Default Changelist" comment="" />
+    <list default="true" id="927fce45-c199-40e4-8baf-db8256a04cb0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/sharding-jdbc/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sharding-jdbc-springboot-sample/target/" />
@@ -30,144 +34,107 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.8342217">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="39">
-                  <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/ShardingJdbcSpringbootSampleApplication.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="363">
-                  <caret line="19" selection-start-line="19" selection-end-line="19" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/sharding/KeyGenerator.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="10" selection-start-line="10" selection-end-line="10" />
-                  <folding>
-                    <element signature="e#302#303#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/endpoint/TOrderEndPoint.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-240">
-                  <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#1150#1151#0" expanded="true" />
-                    <element signature="e#1193#1194#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/mapper/TOrderMapper.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="279">
-                  <caret line="16" column="48" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="48" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc/src/main/resources/sharding.yaml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="123">
-                  <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application.properties">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/service/TOrderService.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="121">
-                  <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#515#516#0" expanded="true" />
-                    <element signature="e#561#562#0" expanded="true" />
-                    <element signature="e#813#814#0" expanded="true" />
-                    <element signature="e#839#840#0" expanded="true" />
-                    <element signature="e#907#908#0" expanded="true" />
-                    <element signature="e#956#957#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/base/IBaseDao.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
-                  <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/sharding-jdbc/src/main/resources/sharding.yaml">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="12" column="12" selection-start-line="12" selection-end-line="12" selection-end-column="12" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc/src/main/resources/sharding.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc/src/main/java/cn/pmj/shading/jdbc/JdbcMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="960">
+              <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="36" selection-start-column="36" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application_sharding.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/shardingsphere/sharding-jdbc-spring-boot-starter/3.0.0/sharding-jdbc-spring-boot-starter-3.0.0-sources.jar!/io/shardingsphere/shardingjdbc/spring/boot/sharding/SpringBootShardingRuleConfigurationProperties.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/io/shardingsphere/sharding-core/3.0.0/sharding-core-3.0.0-sources.jar!/io/shardingsphere/core/metadata/table/executor/TableMetaDataLoader.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="930">
+              <caret line="69" selection-start-line="69" selection-end-line="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="9090">
+              <caret line="349" selection-start-line="349" selection-end-line="349" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/base/IBaseDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -184,13 +151,17 @@
       <find>dbcp</find>
       <find>org.apache.shardingsphere</find>
       <find>inline.</find>
-      <find>shardingsphere</find>
       <find>sharding.jdbc.datasource.</find>
       <find>sharding.jdbc.config.sharding</find>
+      <find>shardingsphere</find>
+      <find>154.8.141.30</find>
     </findStrings>
     <replaceStrings>
       <replace>sharding.jdbc</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -210,13 +181,14 @@
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/base/IBaseDao.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/ShardingJdbcSpringbootSampleApplication.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/pom.xml" />
-        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/mapper/TOrderMapper.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/service/TOrderService.java" />
-        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http" />
         <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/endpoint/TOrderEndPoint.java" />
         <option value="$PROJECT_DIR$/sharding-jdbc/src/main/resources/sharding.yaml" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application_sharding.properties" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java" />
       </list>
     </option>
   </component>
@@ -252,18 +224,20 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="246" />
-    <option name="y" value="86" />
+    <option name="x" value="33" />
+    <option name="y" value="100" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
   <component name="ProjectId" id="1PpSfQuNg5SgzcGajHJ72Ay1DpV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <showMembers ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -300,56 +274,125 @@
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="pmj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="pmj" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="pmj" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="pmj" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="pmj" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cn" type="462c0819:PsiDirectoryNode" />
+              <item name="pmj" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding" type="462c0819:PsiDirectoryNode" />
+              <item name="jdbc" type="462c0819:PsiDirectoryNode" />
+              <item name="springboot" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shardingj-dbc-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="sharding-jdbc-springboot-sample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="javax" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="javax" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="javax" type="462c0819:PsiDirectoryNode" />
-              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -385,6 +428,39 @@
               <item name="io" type="462c0819:PsiDirectoryNode" />
               <item name="shardingsphere" type="462c0819:PsiDirectoryNode" />
               <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.shardingsphere:sharding-core:3.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-3.0.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="shardingsphere" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="metadata" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.shardingsphere:sharding-core:3.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-3.0.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="shardingsphere" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="metadata" type="462c0819:PsiDirectoryNode" />
+              <item name="table" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: io.shardingsphere:sharding-core:3.0.0" type="70bed36:NamedLibraryElementNode" />
+              <item name="sharding-core-3.0.0.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+              <item name="shardingsphere" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="metadata" type="462c0819:PsiDirectoryNode" />
+              <item name="table" type="462c0819:PsiDirectoryNode" />
+              <item name="executor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
@@ -794,6 +870,62 @@
             <path>
               <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Maven: org.springframework:spring-beans:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
+              <item name="spring-beans-5.1.9.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="org" type="462c0819:PsiDirectoryNode" />
+              <item name="springframework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="shardingj-dbc-sample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="Maven: org.springframework:spring-context:5.1.9.RELEASE" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
@@ -943,7 +1075,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -951,13 +1082,14 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/code/common-advance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -969,38 +1101,6 @@
       <list>
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8080/updateById" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="id" />
-                <option name="value" value="1566836014145" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="POST" />
-          <option name="urlBase" value="http://localhost:8080/updateById" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="id" />
-                <option name="value" value="1566836014145" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8080/selelctAll" />
           <option name="urlPath" value="" />
           <option name="textToSend" value="" />
@@ -1009,22 +1109,6 @@
         <RestClientRequest>
           <option name="httpMethod" value="GET" />
           <option name="urlBase" value="http://localhost:8080/findById" />
-          <option name="urlPath" value="" />
-          <option name="parameters">
-            <list>
-              <KeyValuePair>
-                <option name="key" value="id" />
-                <option name="value" value="1566835551180" />
-              </KeyValuePair>
-            </list>
-          </option>
-          <option name="parametersEnabled" value="true" />
-          <option name="textToSend" value="" />
-          <option name="filesToSend" value="" />
-        </RestClientRequest>
-        <RestClientRequest>
-          <option name="httpMethod" value="GET" />
-          <option name="urlBase" value="http://localhost:8080/deleteById" />
           <option name="urlPath" value="" />
           <option name="parameters">
             <list>
@@ -1051,7 +1135,87 @@
             </list>
           </option>
           <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;userId&quot;: 4,&#10;  &quot;orderId&quot;: 5&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/insert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{&#10;  &quot;userId&quot;: 3,&#10;  &quot;orderId&quot;: 4&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/insert" />
+          <option name="urlPath" value="" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Content-Type" />
+                <option name="value" value="application/json" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
           <option name="textToSend" value="{&#10;  &quot;userId&quot;: 2,&#10;  &quot;orderId&quot;: 7&#10;}" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/updateById" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="1566836014145" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://localhost:8080/updateById" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="1566836014145" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="GET" />
+          <option name="urlBase" value="http://localhost:8080/deleteById" />
+          <option name="urlPath" value="" />
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="id" />
+                <option name="value" value="1566835551180" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
           <option name="filesToSend" value="" />
         </RestClientRequest>
         <RestClientRequest>
@@ -1101,14 +1265,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="HTTP Request.TOrder#5">
+  <component name="RunManager" selected="HTTP Request.TOrder#1">
     <configuration name="TOrder#1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http">
       <method v="2" />
     </configuration>
-    <configuration name="TOrder#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http" index="3">
+    <configuration name="TOrder#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http" index="2">
       <method v="2" />
     </configuration>
-    <configuration name="TOrder#4" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http" index="4">
+    <configuration name="TOrder#3" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http" index="3">
       <method v="2" />
     </configuration>
     <configuration name="TOrder#5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http" index="5">
@@ -1129,18 +1293,18 @@
     </configuration>
     <list>
       <item itemvalue="HTTP Request.TOrder#1" />
-      <item itemvalue="Spring Boot.ShardingJdbcSpringbootSampleApplication" />
       <item itemvalue="HTTP Request.TOrder#3" />
-      <item itemvalue="HTTP Request.TOrder#4" />
       <item itemvalue="HTTP Request.TOrder#5" />
+      <item itemvalue="HTTP Request.TOrder#2" />
+      <item itemvalue="Spring Boot.ShardingJdbcSpringbootSampleApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="HTTP Request.TOrder#5" />
-        <item itemvalue="Spring Boot.ShardingJdbcSpringbootSampleApplication" />
         <item itemvalue="HTTP Request.TOrder#1" />
+        <item itemvalue="Spring Boot.ShardingJdbcSpringbootSampleApplication" />
         <item itemvalue="HTTP Request.TOrder#3" />
-        <item itemvalue="HTTP Request.TOrder#4" />
+        <item itemvalue="HTTP Request.TOrder#2" />
+        <item itemvalue="HTTP Request.TOrder#5" />
       </list>
     </recent_temporary>
   </component>
@@ -1158,8 +1322,21 @@
       <workItem from="1566576831514" duration="4869000" />
       <workItem from="1566714124917" duration="1410000" />
       <workItem from="1566718165592" duration="743000" />
-      <workItem from="1566830240146" duration="6562000" />
+      <workItem from="1566830240146" duration="6783000" />
+      <workItem from="1566919190782" duration="9000" />
+      <workItem from="1567254010019" duration="3087000" />
+      <workItem from="1567274739999" duration="201000" />
+      <workItem from="1567274968080" duration="3585000" />
+      <workItem from="1567316764446" duration="11000" />
     </task>
+    <task id="LOCAL-00001" summary="读写分离">
+      <created>1567257391706</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567257391706</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1195,25 +1372,24 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18609000" />
+    <option name="totallyTimeSpent" value="25723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28944564" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29744136" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" weight="0.32936078" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31852654" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.55146265" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44360086" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.50867677" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Spring" order="6" weight="0.32936078" />
@@ -1221,10 +1397,10 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -1234,6 +1410,7 @@
       <window_info anchor="right" id="Maven" order="6" weight="0.28624734" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
     <layout-to-restore>
       <window_info id="Web" order="0" side_tool="true" />
@@ -1273,6 +1450,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="读写分离" />
+    <option name="LAST_COMMIT_MESSAGE" value="读写分离" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1371,27 +1552,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/sharding/asd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/sharding/ASDAS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/sharding/asda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -1417,13 +1577,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/shardingsphere/sharding-jdbc-spring-boot-starter/3.0.0/sharding-jdbc-spring-boot-starter-3.0.0-sources.jar!/io/shardingsphere/shardingjdbc/spring/boot/sharding/SpringBootShardingRuleConfigurationProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="28" column="81" lean-forward="true" selection-start-line="28" selection-start-column="81" selection-end-line="28" selection-end-column="81" />
         </state>
       </provider>
     </entry>
@@ -1568,16 +1721,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc/src/main/java/cn/pmj/shading/jdbc/JdbcMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="81" column="38" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/io/shardingsphere/sharding-jdbc-core/3.0.0/sharding-jdbc-core-3.0.0-sources.jar!/io/shardingsphere/shardingjdbc/jdbc/core/statement/ShardingPreparedStatement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -1673,53 +1816,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/base/IBaseDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="39">
-          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/ShardingJdbcSpringbootSampleApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/mapper/TOrderMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/sharding/KeyGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1730,33 +1826,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/service/TOrderService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#561#562#0" expanded="true" />
-            <element signature="e#813#814#0" expanded="true" />
-            <element signature="e#839#840#0" expanded="true" />
-            <element signature="e#907#908#0" expanded="true" />
-            <element signature="e#956#957#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/endpoint/TOrderEndPoint.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="690">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1150#1151#0" expanded="true" />
@@ -1765,10 +1838,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/mapper/TOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="16" column="48" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/service/TOrderService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#561#562#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#863#864#0" expanded="true" />
+            <element signature="e#907#908#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/ShardingJdbcSpringbootSampleApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/sharding-jdbc/src/main/resources/sharding.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        <state relative-caret-position="180">
+          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc/src/main/java/cn/pmj/shading/jdbc/JdbcMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="45" column="40" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/TOrder.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application_sharding.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/shardingsphere/sharding-jdbc-spring-boot-starter/3.0.0/sharding-jdbc-spring-boot-starter-3.0.0-sources.jar!/io/shardingsphere/shardingjdbc/spring/boot/sharding/SpringBootShardingRuleConfigurationProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/shardingsphere/sharding-core/3.0.0/sharding-core-3.0.0-sources.jar!/io/shardingsphere/core/metadata/table/executor/TableMetaDataLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="930">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.9.RELEASE/spring-beans-5.1.9.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9090">
+          <caret line="349" selection-start-line="349" selection-end-line="349" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/base/IBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sharding-jdbc-springboot-sample/src/main/java/cn/pmj/sharding/jdbc/springboot/sample/bean/TOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

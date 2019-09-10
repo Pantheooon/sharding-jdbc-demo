@@ -17,12 +17,13 @@ public class OrderDataBaseShardingStrategyConfig implements ShardingStrategyConf
     private class OrderDataBaseShardingStrategy implements ShardingStrategy {
         @Override
         public Collection<String> getShardingColumns() {
-            return Arrays.asList( "user_id");
+            return Arrays.asList("user_id");
         }
 
 
         /**
-         *  user_id的值对5 取余,小于3的放ds1库,大于3的放ds0库
+         * user_id的值对5 取余,小于3的放ds1库,大于3的放ds0库
+         *
          * @param availableTargetNames
          * @param shardingValues
          * @return
@@ -32,8 +33,8 @@ public class OrderDataBaseShardingStrategyConfig implements ShardingStrategyConf
             ShardingValue next = shardingValues.iterator().next();
             ListShardingValue shardingValue = (ListShardingValue) next;
             Collection values = shardingValue.getValues();
-            Integer userId = (Integer)values.iterator().next();
-            if (userId%5>3){
+            Integer userId = (Integer) values.iterator().next();
+            if (userId % 5 > 3) {
                 return Arrays.asList("ds1");
             }
             return Arrays.asList("ds0");

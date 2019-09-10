@@ -28,9 +28,8 @@ public class JdbcMain {
     }
 
 
-
     private static void insertOrder() throws SQLException {
-        try (Connection connection = getConnection()){
+        try (Connection connection = getConnection()) {
             String sql = "insert into t_order (user_id,order_id) values(19,22)";
             Statement statement = connection.createStatement();
             statement.execute(sql);
@@ -39,7 +38,7 @@ public class JdbcMain {
 
 
     private static void generateTable() throws SQLException {
-        try (Connection connection = getConnection();){
+        try (Connection connection = getConnection();) {
             String sql = "CREATE TABLE t_order (\n" +
                     "  `id` bigint NOT NULL ,\n" +
                     "  `user_id` int(11) DEFAULT NULL,\n" +
@@ -73,7 +72,7 @@ public class JdbcMain {
         return dataSource.getConnection();
     }
 
-    private static TableRuleConfiguration orderTableConfiguration(){
+    private static TableRuleConfiguration orderTableConfiguration() {
         // 配置Order表规则
         TableRuleConfiguration orderTableRuleConfig = new TableRuleConfiguration();
         orderTableRuleConfig.setLogicTable("t_order");
@@ -89,7 +88,7 @@ public class JdbcMain {
     }
 
 
-    private static TableRuleConfiguration userTableRuleConfig(){
+    private static TableRuleConfiguration userTableRuleConfig() {
         TableRuleConfiguration userTableRuleConfig = new TableRuleConfiguration();
         userTableRuleConfig.setLogicTable("t_user");
         userTableRuleConfig.setActualDataNodes("ds0.t_user");
@@ -98,7 +97,7 @@ public class JdbcMain {
 
 
     private static Map<String, DataSource> createDataSource() {
-        HashMap<String,DataSource> dataSourceMap = new HashMap<>();
+        HashMap<String, DataSource> dataSourceMap = new HashMap<>();
         // 配置第一个数据源
         DataSource source0 = getBasicDataSource("");
         dataSourceMap.put("ds0", source0);

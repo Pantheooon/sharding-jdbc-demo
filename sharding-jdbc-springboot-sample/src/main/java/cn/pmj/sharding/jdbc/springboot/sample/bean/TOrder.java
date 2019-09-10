@@ -4,7 +4,6 @@ package cn.pmj.sharding.jdbc.springboot.sample.bean;
 import lombok.Data;
 import org.springframework.stereotype.Repository;
 
-import javax.annotation.Generated;
 import javax.persistence.Column;
 import javax.persistence.Id;
 import javax.persistence.Table;

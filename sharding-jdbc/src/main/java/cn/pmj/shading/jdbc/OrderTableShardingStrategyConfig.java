@@ -14,15 +14,16 @@ public class OrderTableShardingStrategyConfig implements ShardingStrategyConfigu
     }
 
 
-    public class OrderShardingStrategy implements ShardingStrategy{
+    public class OrderShardingStrategy implements ShardingStrategy {
         @Override
         public Collection<String> getShardingColumns() {
-                return   Arrays.asList("order_id");
+            return Arrays.asList("order_id");
 
         }
 
         /**
          * 全部分到t_order_1这张表
+         *
          * @param availableTargetNames
          * @param shardingValues
          * @return

@@ -17,7 +17,6 @@ import java.sql.Statement;
 public class ShardingJdbcSpringbootSampleApplicationTests {
 
 
-
     @Autowired
     private DataSource dataSource;
 
@@ -26,9 +25,9 @@ public class ShardingJdbcSpringbootSampleApplicationTests {
 
         Connection connection = dataSource.getConnection();
         Statement statement = connection.createStatement();
-        boolean execute =statement .execute("select * from t_order");
+        boolean execute = statement.execute("select * from t_order");
         ResultSet resultSet = statement.getResultSet();
-        while (resultSet.next()){
+        while (resultSet.next()) {
             long anInt = resultSet.getLong(1);
             System.out.println(anInt);
         }
